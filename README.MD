@@ -19,6 +19,6 @@ To run this program which is not a program.
 4) Contemplate the Treachery of Programs.
 5) Press any key to exit the program which is not a program.
 
-
+![Image of the Treachery of Programs](treachery_of_programs.png)
 
 This program uses the wonderful [cursor module](https://github.com/GijsTimmers/cursor) by [GijsTimmers](https://github.com/GijsTimmers)
